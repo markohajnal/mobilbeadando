@@ -1,0 +1,267 @@
+{
+    "recipes": [
+      {
+        "id": "1",
+        "title": "Rántotta",
+        "image": "https://www.tportal.hr/media/thumbnail/w1000/315448.jpeg",
+        "ingredients": [
+          "HOZZÁVALÓK",
+          "Tojás",
+          "Tej",
+          "Olaj",
+          "Só",
+          
+        ],
+        "directions": [
+          "1. Egy tálba vagy tányérba üsd bele a tojásokat és sózd ízlés szerint.",
+          "2. Villával vagy kézi habverővel verd fel a tojásokat. Nem kell túl habosra verni őket, csak addig, amíg a sárgája és a fehérje teljesen elkeveredik.",
+          "3. Egy serpenyőben forrósítsd fel a zsiradékot.",
+          "4. Ha a zsiradék elég meleg, akkor vedd le a lángot alacsonyra, és öntsd bele a felvert tojást.",
+          "5. A tökéletes rántotta egyik titka, hogy nem szabad állandóan kevergetni. Hagyd, amíg megszilárdul az alja, és néhány nagyobb mozdulattal forgasd át.",
+          "6. Folytasd a sütést 3-4 percig, kb. percenként egy-egy nagyobb mozdulattal átforgatva. Így az egész át fog sülni, de nem lesz szétkeverve, hanem szép nagy darabokban sül meg a tojás.",
+          "7. Amikor már éppen csak nedves a tojás, akkor forgasd át utoljára, és zárd el alatta a lángot.",
+          "8. A rántotta el is készült – ilyen egyszerű!"
+        ],
+        
+        
+      },
+      {
+        "id": "2",
+        "title": "Instant Tészta",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61XAb2QLazL._SL1176_.jpg",
+        "ingredients": [
+          "HOZZŰVALÓK",
+          "Egy doboz instant tészta",
+          "Víz"
+         
+        ],
+        "directions": [
+          "A dobozba öntsünk forralt vizet és pár perc mulva öntsuk ki a vizet úgy hogy a tészta ne essen ki.",
+          
+        ],
+        
+       
+      },
+      {
+        "id": "3",
+        "title": "Sajtos Tészta",
+        "image": "https://cdn.apartmenttherapy.info/image/fetch/f_auto,q_auto:eco/https%3A%2F%2Fstorage.googleapis.com%2Fgen-atmedia%2F3%2F2015%2F09%2Fe73344b9cdfdedc315f380c25d0c9e89cdad696f.jpeg",
+        "ingredients": [
+          "HOZZÁVALÓK",
+          "20 dkg makaróni",
+"15 dkg cheddar sajt",
+"2 dl tej",
+"2 evőkanál finomliszt",
+"5 dkg vaj",
+"bors ízlés szerint",
+"só ízlés szerint",
+        ],
+        "directions": [
+          "1. A vajat olvasszuk meg, majd szórjuk rá a lisztet, és sűrűn kevergetve, közepes lángon pirítsuk pár percig. Majd fokozatosan adjuk hozzá a szobahőmérsékletű tejet, amit aztán mindig keverjünk el. A lényeg, hogy egy nem túl folyós állagú masszát kapjunk.",
+          "2. A masszánkat sózzuk-borsozzuk ízlésünknek megfelelően! Majd keverjük hozzá a lereszelt cheddar sajtot, és keverjük jól el.",
+          "3. Záróakkordként pedig öntsük a kifőtt tésztát a masszába, és keverjük jól össze. Kevés frissen őrölt bors még mehet a tetejére tálalásnál, és ennyi. Jó étvágyat hozzá!"
+        
+       
+        ],
+        
+      },
+      {
+        "id": "4",
+        "title": "Rosé Kacsamell",
+        "image": "https://www.nosalty.hu/files/imagecache/recept/recept_kepek/246949_250392_15271961_1181099058648515_7097444822499597107_o.jpg",
+        "ingredients": [
+          "HOZZÁVALÓK",
+          "4 db burgonya",
+"1 nagy db vöröshagyma",
+"400 ml főzőtejszín",
+"10 dkg vaj",
+"2 teáskanál só",
+"0.5 teáskanál bors",
+"0.5 teáskanál szerecsendió",
+"0.8 kg kacsamell",
+"3 dl vörösbor",
+"1 db fahéjrúd",
+"1 teáskanál szegfűszeg",
+"4 ek áfonyadzsem",
+"1 db gránátalma",
+          
+        ],
+        "directions": [
+          "1. A burgonyákat és a hagymát uborkagyalun vagy késsel vékonyra szeljük. Egy hőálló edényt kivajazunk, majd ezután rétegesen elkezdjük belepakolni a burgonyát és a hagymát. Ízlés szerint borsozzuk, sózzuk, szerecsendióval megszórjuk, majd egy kis olvasztott vajjal meglocsoljuk. Ezt megismételjük, majd az utolsó rétegre már csak burgonyát teszünk, ezzel lefedve az egészet. Ezután ráöntjük a tejszínt, és 160 fokos sütőben alufólia alatt 35-40 perc alatt készre sütjük. Az utolsó 10 percben az alufóliát eltávolítjuk.",
+          "2. Miközben sül, nekiláthatunk a kacsának: A kacsamell bőrét beirdaljuk, figyelve arra, hogy a húst ne vágjuk meg. Sózzuk, borsozzuk. Hideg serpenyőbe helyezzük a bőrös oldalával lefelé, és mindenféle zsiradék nélkül sütni kezdjük. Így sütjük 4-5 percig, majd átfordítjuk. Ugyanennyi ideig sütjük a másik oldalát is, majd egy sütőpapírral bélelt tepsire helyezzük (a bőrös oldalával felfelé). Bedobjuk a 180 fokra előmelegített sütőbe 10-12 percre. Ezután 5-6 percig pihentetjük, közben párszor átfordítjuk.",
+          "3. Vörösbor-redukció: A vörösbort felforraljuk, teszünk bele egész fahéjat és szegfűszeget, majd a 2/3-ára visszaredukáljuk. Amikor a kellő mennyiség elpárolgott, hozzáadjuk a lekvárt, főzzük 2 percig, és egy serpenyőbe átöntve sózzuk, borsozzuk, és elkezdjük óvatosan hozzáadni a maradék vajat. Folyamatosan kevergetjük!",
+          "4. Gránátalmával esetleg madársalátával tálaljuk. Jó étvágyat!"
+          
+        ],
+        
+        
+      },
+      {
+        "id": "5",
+        "title": "Kolbászos Krumplileves",
+        "image": "https://www.nosalty.hu/files/imagecache/recept/recept_kepek/274972_298130_kolbaszos_krumplileves-2_1_of_1.jpg",
+        "ingredients": [
+          "HOZZÁVALÓK",
+         "15 dkg füstölt kolbász (1 szál)",
+"5 dkg füstölt mangalica szalonna",
+"5 dkg kolozsvári szalonna",
+"1 közepes db vöröshagyma",
+"1 tk fűszerpaprika",
+"2 közepes db sárgarépa",
+"80 dkg burgonya",
+"1 ek majoranna",
+"só ízlés szerint",
+"bors ízlés szerint",
+"1.5 ek finomliszt",
+"2.5 dl tejföl"
+        ],
+        "directions": [
+          "1. A karikákra vágott kolbászt egy nagyobb fazékba tesszük, közepes lángon kiolvasztjuk, majd kiszedjük. A visszamaradt zsiradékon félig kiolvasztjuk a csíkokra vágott szalonnát (mindkét félét), majd hozzáadjuk a finomra vágott vöröshagymát. Pár perc alatt, kevergetve, üvegesre pároljuk.",
+          "2. Megszórjuk fűszerpaprikával, átkeverjük, majd hozzáadjuk a karikára vágott répát. Felöntjük annyi vízzel, amennyi bőven ellepi. 10 percig főzzük, majd hozzáadjuk a megpucolt, felkockázott krumplit is.",
+          "3. Megszórjuk a majoránnával, sózzuk, borsozzuk, majd közepes lángon főzzük 20 percig.",
+          "4. Egy kisebb tálban elkeverjük a lisztet a tejföllel. Amikor a krumpli megpuhult, egy merőkanálnyi levest merünk a tejfölbe, csomómentesre keverjük. Visszaöntjük a levesbe, beleszórjuk a kolbászkarikákat, és még egyszer felforraljuk."
+          
+        ],
+        
+        
+        
+      },
+      {
+        "id": "6",
+        "title": "Sütőtökleves",
+        "image": "https://www.nosalty.hu/files/nosalty-images/20191126/276116_300416_sutotokleves.jpg_.crop_display.jpg",
+        "ingredients": [
+          "HOZZÁVALÓK",
+          "50 dkg sütőtök",
+"25 dkg burgonya (4-5 közepes db)",
+"1 közepes db vöröshagyma",
+"2 gerezd fokhagyma",
+"2.5 l szárnyas alaplé (vagy víz)",
+"só ízlés szerint",
+"bors ízlés szerint",
+"4 db szegfűszeg",
+"3 ek napraforgó olaj",
+"6 szelet bacon",
+"3 db zsemle (3 szelet fehérkenyér)",
+"1 szál rozmaring (1 kis szál)"
+        ],
+        "directions": [
+          "1. A hagymát apró kockára vágjuk, az olajon elődinszteljük, majd hozzáadjuk a felkockázott krumplit, felöntjük alaplével vagy vízzel, és elkezdjük főzni. A megtisztított, felaprított tököt akkor adjuk hozzá, amikor a krumpli félig megfőtt, mert a tök gyorsabban fő. Hozzáadjuk a sót, a zúzott fokhagymát, és puhára főzzük.",
+          "2. Turmixoljuk, és hozzáadjuk a fűszereket.",
+          "3. A szalonnát megpirítjuk egy evőkanálnyi olajon, kiszedjük, majd a serpenyőben megpirítjuk a kenyérkockákat is. Kiszedjük a fűszereket a levesből, és tálaljuk."
+        ]
+       
+        
+       
+      },
+      {
+        "id": "7",
+        "title": "Töltött Káposzta",
+        "image": "https://www.nosalty.hu/files/imagecache/recept/recept_kepek/cover_post_5.jpg",
+        "ingredients": [
+          "HOZZÁVALÓK",
+          "15 dkg füstölt szalonna",
+"15 dkg vöröshagyma",
+"12 dkg rizs",
+"40 dkg darált sertéscomb",
+"40 dkg darált sertéstarja",
+"1 dl víz",
+"só ízlés szerint",
+"bors ízlés szerint",
+"12 közepes db káposztalevél (savanyú)",
+"1 kg savanyú káposzta",
+"50 dkg füstölt oldalas",
+"1.2 l víz"
+        ],
+        "directions": [
+          "1. A szalonnát kockára vágjuk, és kiolvasztjuk. Szűrőlapáttal eltávolítjuk a pörcöket, és félretesszük.",
+          "2. A vöröshagymát nagyon finomra vágjuk, és 10 percig üvegesítjük a visszamaradt szalonnazsíron.",
+          "3. Hozzáadjuk a megmosott és megszárított rizst, és újabb 5 percig kevergetve főzzük, míg a rizs is üveges lesz.",
+          "4. Egy mélyebb tálba tesszük a kétfajta darált húst. Hozzáadjuk a hagymás rizst, a szalonnapörcöket, sózzuk, borsozzuk, és hozzáadunk még egy deci vizet, majd összedolgozzuk.",
+          "5. A savanyú káposzta leveleit kiterítjük magunk elé. Ha vastagok lennének az erei, kicsit megcsapkodjuk húsklopfolóval. Beleteszünk egy adag tölteléket, behajtjuk a két oldalát, majd szorosan feltekerjük, hogy ki ne essen a töltelék a levélből.",
+          "6. Egy nagyobb cserépfazék vagy öntöttvas fazék aljára teszünk egy adag savanyú káposztát, majd pár darab oldalast. Teszünk rá 3-4 tölteléket, majd befedjük káposztával és oldalassal. Addig folytatjuk a rétegezést, míg elfogynak a hozzávalók. A végén felöntjük annyi vízzel, hogy éppen csak ellepje. Ha cserépfazekat használunk, előtte áztassuk be!",
+          "7. Az edényt tegyük sütőbe, majd kapcsoljuk 120 fokra, és süssük 4-5 órán át."
+        
+        
+        ],
+        
+      },
+      {
+        "id": "8",
+        "title": "Almás Palacsinta",
+        "image": "https://www.nosalty.hu/files/imagecache/recept/recept_kepek/almas_palacsinta.jpg",
+        "ingredients": [
+          "HOZZÁVALÓK",
+          
+         "250 g finomliszt",
+"100 ml tej",
+"30 g vaj",
+"2 db tojás",
+"20 g friss élesztő",
+"50 g cukor",
+"1 csomag vaníliás cukor",
+"1 ek citromlé",
+"2 nagy db alma",
+"3 ek napraforgó olaj (a sütéshez)",
+        ],
+        "directions": [
+          "1. A tejet a vajjal egy edényben langyosra melegítjük. Belemorzsoljuk az élesztőt, és feloldjuk benne.",
+          "2. A lisztet egy edénybe tesszük, hozzáöntjük az élesztős tejet, hozzáadjuk a többi hozzávalót (az alma kivételével), és sima tésztává keverjük.",
+          "3. Az almát meghámozzuk, durvára reszeljük, és a palacsintamasszához keverjük. Letakarva, meleg helyen kb. 30 percet hagyjuk állni.",
+          "4.Forrósítsunk kevés olajat a serpenyőben. Minden palacsintához tegyünk kb. 1½ ek tésztát a serpenyőbe, és süssük oldalanként kb. 2-2 perc alatt aranysárgára."
+          
+        
+        
+          
+        ],
+        
+      },
+      {
+        "id": "9",
+        "title": "Crumpets",
+        "image": "https://www.nosalty.hu/files/imagecache/recept/recept_kepek/crumpets_0.jpg",
+        "ingredients": [
+          "HOZZÁVALÓK",
+          "45 dkg finomliszt",
+"0.5 tk só",
+"1 ek cukor",
+"1 tasak instant élesztő",
+"3 dl meleg tej",
+"3 dl meleg víz"
+        ],
+        "directions": [
+          "1. A lisztet összekeverjük a sóval. A közepébe mélyedést készítünk, ebbe beletesszük a cukrot és az élesztőt.",
+          "2. A mélyedésbe beleöntjük a tejet és a vizet, majd a tésztát összedolgozzuk.",
+          "3. Meleg helyen, letakarva másfél órán keresztül megkelesztjük.",
+          "4. Egy serpenyőbe beleteszünk egy nagyobb, kör alakú szaggatót, amibe töltünk a tésztából, és így sütjük meg a tésztát."
+        
+        
+        ],
+        
+      },
+      {
+        "id": "10",
+        "title": "Rizibizi",
+        "image": "https://www.nosalty.hu/files/imagecache/recept/recept_kepek/gyors_rizi-bizi.jpg",
+        "ingredients": [
+          "HOZZÁVALÓK",
+          "2 bögre rizs (2,5 dl-es bögre)",
+"7.5 dl víz",
+"3 ek olívaolaj",
+"500 g zsenge zöldborsó",
+"1 tk só",
+"1 ek cukor",
+"2 ek petrezselyem"
+        ],
+        "directions": [
+          "1. A rizsfőzőben (nekem elektromos) vagy lábosban a rizst megpároljuk 3 bögre vízzel és 2 evőkanál olajjal.",
+          "2. Közben a zöldborsót, sót, petrezselymet és a cukrot egy nagyobb tálba, ami belefér a mikróba, tesszük letakarva, és puhára pároljuk. (Vagy egy lábosban a hozzávalókkal megdinszteljük.)",
+          "3. Majd a kettőt összekeverjük (a rizst keverjük a borsóhoz), és kész is van."
+        ],
+        
+        
+        
+      }
+
+    ]
+  }
